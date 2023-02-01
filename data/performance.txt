@@ -1,0 +1,7 @@
+Population size: 10, iterations: 2000, crossover: False, blocks num: 19, warehouse size: 6x6
+1 8.000000
+2 10.000000
+4 16.000000
+6 21.000000
+55 22.000000
+1639 24.000000
